@@ -1,5 +1,7 @@
 # MiniKeeb
 
+UPDATE: The layout that your keyboard will be shipped with can be viewed [here](https://github.com/KobeCofini/MiniKeeb/blob/main/photos/layout-shipped-with.png).
+
 Want to edit your keyboard layout? You can find the required `.json` and `.hex` files [here](https://github.com/KeebCathedral/MiniKeeb/tree/main/keymaps).  
 ---
 
